@@ -9,7 +9,7 @@ Todo sea por aprender, practicar y mejorar.
 
 - [Vuejs](#vue)
 - [Cursos](#cursos)
-- [Recursos IA](#Recursos IA)
+- [Recursos IA](#IA)
 
 
 ## Vuejs
@@ -31,5 +31,5 @@ Analyzing Big data - Data Science
 
 - [Agile Project Management](https://www.coursya.com/product/agile-project-management)
 
-## Recursos IA
+## IA
 - [JSON Data AI, obtener un JSON dependiendo de tu prompt ](https://www.jsondataai.com/)
