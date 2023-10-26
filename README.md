@@ -9,11 +9,11 @@ Todo sea por aprender, practicar y mejorar.
 
 - [Vuejs](#vue)
 - [Cursos](#cursos)
-- [Recursos IA](#ia)
+- [Recursos IA](#Recursos IA)
 
 
 ## Vuejs
-- Comming Soon
+- Comming Soon (v)
 
 
 
