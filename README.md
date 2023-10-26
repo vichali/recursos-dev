@@ -8,7 +8,7 @@ Todo sea por aprender, practicar y mejorar.
 ## Contenidos
 
 - [Vuejs](#vue)
-- [Cursos](#cursoslinkedin)
+- [Cursos](#cursos)
 - [Recursos IA](#ia)
 
 
