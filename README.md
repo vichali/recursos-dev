@@ -1,6 +1,7 @@
 # Recursos para desarrolladores y algo más
 
-> Un listado de diferentes tipos de recursos sobre programación, desarrollador y diseño UI/UX. Curada a pulmón :)
+> Un listado de diferentes tipos de recursos sobre programación, desarrollador y diseño UI/UX.    
+Curada a pulmón :)
 
 Se listan cursos, tutoriales, papers, publicaciones y todo tipo de material que consideramos de valor para el día a día. 
 
@@ -48,7 +49,7 @@ Todo sea por aprender, practicar y mejorar.
 Extensiones
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Errores y warnings en tiempo real. 
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): El tamaño final del paquete se ve afectado por lo que realmente importe y no por el tamaño de toda la biblioteca en sí.
-- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols):Nuevos iconos para vscode
+- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols): Nuevos iconos para vscode
 - [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client): Clientes rest para probar nuestras APIs y las de terceros.
 - [REST Client API](https://marketplace.visualstudio.com/items?itemName=donebd.rest-client-api): Me parece la mejor por su simpleza para enviar solicitudes HTTP 
 
