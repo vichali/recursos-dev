@@ -52,6 +52,7 @@ Extensiones
 - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols): Nuevos iconos para vscode
 - [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client): Clientes rest para probar nuestras APIs y las de terceros.
 - [REST Client API](https://marketplace.visualstudio.com/items?itemName=donebd.rest-client-api): Me parece la mejor por su simpleza para enviar solicitudes HTTP 
+- [Polacode o CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Te permite capturar, en un formato pretty, una porción de tu código para pegarlo en cualquier documento o página.
 
 ### Frontend 
 Tools
