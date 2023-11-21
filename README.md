@@ -75,7 +75,7 @@ Recursos
 
 ### Recursos Docker
 Soluciones y herramientas para evaluar posibles vulnerabilidades en nuestras imágenes.   
-- [Scout](https://docs.docker.com/scout/): Puede ser usado en Docker desktop, hub y cli
+- [Scout](https://docs.docker.com/scout/){:target="_blank"}: Puede ser usado en Docker desktop, hub y cli
 - [Snyk](https://snyk.io/): Detecta vulnerabilidades de forma automática. Aplica AI
 - [Aikido](https://www.aikido.dev/): Amigable y con versión free.
 - [Aqua](https://www.aquasec.com/): Apunta a resolver soluciones en nube.
