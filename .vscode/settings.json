@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "section",
         "be",
-        "(test)"
+        "(test)",
+        "nats"
     ]
 }
