@@ -13,6 +13,7 @@ Bienvenidos todos los uqe deseen participar.
 
 - [SQL](#sql-and-analyzing-big-data)
 - [Docker](#recursos-docker)
+- [Nats](#nats)
 - [Recursos IA](#recursos-ia)
 - [Recursos API](#recursos-api)
 - [VScode extensiones y más](#vscode)
@@ -79,6 +80,10 @@ Soluciones y herramientas para evaluar posibles vulnerabilidades en nuestras im�
 - [Snyk](https://snyk.io/): Detecta vulnerabilidades de forma automática. Aplica AI
 - [Aikido](https://www.aikido.dev/): Amigable y con versión free.
 - [Aqua](https://www.aquasec.com/): Apunta a resolver soluciones en nube.
+
+### NATS
+Testing apps
+-[](https://nats.io/blog/testing-your-nats-application/): Necesitás testear, el framework Gatling puede ayudarte.
 
 
 ### Vuejs

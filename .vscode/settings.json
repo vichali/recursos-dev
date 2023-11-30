@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "section",
-        "be"
+        "be",
+        "(test)"
     ]
 }
