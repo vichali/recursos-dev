@@ -1,6 +1,6 @@
 # Recursos para desarrolladores y algo más
 
-> Un listado de diferentes tipos de recursos sobre programación, desarrollo y diseño UI/UX.    
+>Un listado de diferentes tipos de recursos sobre programación, desarrollo y diseño UI/UX.    
 Curada a pulmón :)
 
 Se listan tutoriales, cursos, papers, publicaciones y todo tipo de material que consideramos de valor para el día a día. 
@@ -49,7 +49,7 @@ Bienvenidos todos los uqe deseen participar.
 - [JSON Data AI, obtener un JSON dependiendo de tu prompt ](https://www.jsondataai.com/)
 
 ### VScode
-Extensiones
+>Extensiones
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Errores y warnings en tiempo real. 
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): El tamaño final del paquete se ve afectado por lo que realmente importe y no por el tamaño de toda la biblioteca en sí.
 - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols): Nuevos iconos para vscode
@@ -61,13 +61,13 @@ Fonts
 - [Fuentes para code y terminal](https://monaspace.githubnext.com/)
 
 ### UX / UI / Recursos Web
-Tools
+>Tools
 - [CSS reference](https://cssreference.io/): Un buen lugar para la consulta de ejemplos visuales para aprender css
 - [Web Responsive](https://responsively.app/): un buen lugar para probar tu diseño responsive en diferentes contextos y tamaños.
 - [PenPot](https://penpot.app/): Penpot es una plataforma de diseño y creación de prototipos de código abierto. (similar a Figma)
 
 
-Recursos
+>Recursos
 - [Ilustraciones](https://www.pixeltrue.com/): Un sitio para recurrir a mil de miles de ilustraciones
 
 
@@ -75,15 +75,16 @@ Recursos
 - [Codedex](https://www.codedex.io/): para aprender y mejorar nuestra codificación en python, html, css  y js.
 
 ### Recursos Docker
-Soluciones y herramientas para evaluar posibles vulnerabilidades en nuestras imágenes.   
+>Soluciones y herramientas para evaluar posibles vulnerabilidades en nuestras imágenes.   
 - [Scout](https://docs.docker.com/scout/): Puede ser usado en Docker desktop, hub y cli. 
 - [Snyk](https://snyk.io/): Detecta vulnerabilidades de forma automática. Aplica AI
 - [Aikido](https://www.aikido.dev/): Amigable y con versión free.
 - [Aqua](https://www.aquasec.com/): Apunta a resolver soluciones en nube.
 
 ### NATS
-Testing apps
--[Gatling](https://nats.io/blog/testing-your-nats-application/): Necesitás testear, el framework Gatling puede ayudarte.
+Testing apps   
+- [Gatling](https://nats.io/blog/testing-your-nats-application/): Necesitás testear, el framework Gatling puede ayudarte.
+
 
 
 ### Vuejs
